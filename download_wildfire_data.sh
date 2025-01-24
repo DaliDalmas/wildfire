@@ -2,5 +2,5 @@
 while IFS= read -r line; do
     echo "Downloading data from : $line"
     # download the data from  the read links
-    curl -C - -o data/wildfires.zip "$line"
+    curl -C - -o data/wildfires.csv "$line"
 done < wildfire_data_links.txt

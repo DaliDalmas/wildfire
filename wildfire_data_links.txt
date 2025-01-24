@@ -1,1 +1,1 @@
-https://www.sciencebase.gov/catalog/file/get/5ee13de982ce3bd58d7be7e7?f=__disk__19%2Fbe%2F3d%2F19be3d27276960d99ba20fc90a1b7dfcc540d00e
+https://hub.arcgis.com/api/v3/datasets/6059c1a4dca749d393e33ee5f8a0cbaf_9/downloads/data?format=csv&spatialRefId=4269&where=1%3D1
